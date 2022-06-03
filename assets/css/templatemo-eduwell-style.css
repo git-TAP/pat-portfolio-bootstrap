@@ -152,9 +152,9 @@ body {
 
 .main-button-gradient a {
   font-size: 13px;
-  color: #fff;
+  color: rgb(0, 0, 0);
   background: rgb(219,138,222);
-  background: linear-gradient(-145deg, rgba(219,138,222,1) 0%, rgba(246,191,159,1) 100%);
+  background: linear-gradient(-145deg, rgb(248, 242, 248) 0%, rgb(214, 183, 202) 100%);
   padding: 12px 30px;
   display: inline-block;
   border-radius: 5px;
@@ -277,7 +277,9 @@ header
   min-height: 80px;
   background: transparent;
 }
-
+.img-logo{
+  max-width: 65px;
+}
 .header-area .main-nav .logo {
   line-height: 100px;
   color: #fff;
@@ -713,7 +715,7 @@ section.main-banner {
 .main-banner .header-text h6 {
   position: relative;
   z-index: 2;
-  font-size: 17px;
+  font-size: 24px;
   font-weight: 500;
   text-transform: capitalize;
   color: #777777;;
