@@ -912,6 +912,10 @@ section.our-courses ul.nacc li .right-content {
   margin-left: 90px;
 }
 
+.icon-size{
+  height: 50px;
+}
+
 section.our-courses ul.nacc li .right-content h4 {
   font-size: 20px;
   color: #111;
