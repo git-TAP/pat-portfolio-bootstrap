@@ -762,7 +762,7 @@ services
 }
 
 .services .item .icon {
-  max-width: 75px;
+  max-width: 300px;
   margin: 0 auto;
   min-height: 80px;
   line-height: 80px;
